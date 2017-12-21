@@ -1,0 +1,9 @@
+<ListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="control.pot.coffee.fakecallgenerator.ContactsListFragment"
+    android:id="@+id/contacts_list_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</ListView>
